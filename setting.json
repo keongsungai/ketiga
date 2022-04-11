@@ -2,25 +2,15 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://cosplay18.xyz",
+  "target":"https://adscosplay.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
-   "script",
-    "noscript",
-    "meta",
-    "iframe",
-    "embed",
-    "ins",
-    "form",
-    ".js-consent-banner",
-    ".js-dismissable-hero",
-    ".js-sidebar-zone",
-    "#teams-promo",
-    ".quickedit"
+   
+    "meta"
   ],
   "costom-element-remove":[
     {
-      "target":"cosplay18.xyz",
+      "target":"adscosplay.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
