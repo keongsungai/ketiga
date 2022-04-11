@@ -5,8 +5,7 @@
   "target":"https://asdcosplay.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
-    "script",
-    "noscript",
+   
     "meta"
   ],
   "costom-element-remove":[
