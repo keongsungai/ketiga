@@ -2,7 +2,7 @@
   "name-web":"STACKOVERFLOW MASKODING",
   "author":"MASKODING",
   "remove-comment-html":true,
-  "target":"https://asdcosplay.com",
+  "target":"http://modelsintro.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
    
@@ -10,7 +10,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"adscosplay.com",
+      "target":"modelsintro.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
